@@ -9,6 +9,8 @@ public class Main {
 
     public static void main(String[] args) {
 
+        //All sucks,folks
+
         Integer array[] = {2, 3, 1, 7, 11};
         sortReverse(array);
 
